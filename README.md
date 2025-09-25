@@ -1,4 +1,6 @@
-# Weather App UI
+# Weather App UI       
+
+![App Preview](App_Assets/Designs.png)
 
 This is a **Weather App UI prototype** designed in **Figma**, built with a clean and minimal approach. The project demonstrates how a weather application interface could look and feel, focusing on clarity and ease of use.
 
